@@ -53,7 +53,7 @@ The Server CRUD project is a React.js application that interacts with a JSON ser
 
 ## Visual
 
-<img src="/images/" alt="server-crud-gif">
+<img src="/public/server-crud.gif" alt="server-crud-gif">
 
 ## Live Demo
 
