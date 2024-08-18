@@ -1,8 +1,71 @@
-# React + Vite
+# Server CRUD Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
 
-Currently, two official plugins are available:
+The Server CRUD project is a React.js application that interacts with a JSON server for creating, reading, updating, and deleting data. The application features a user-friendly interface for managing server data efficiently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **CRUD Operations**: Create, read, update, and delete operations for server data.
+- **Responsive Design**: Mobile-friendly and responsive layout.
+- **User-friendly Interface**: Easy navigation and interaction with the data.
+
+## Used Technologies
+
+- **Frontend**: React.js
+- **Backend**: JSON Server
+- **Styling**: Bootstrap, React Icons, React Toastify
+
+## Development
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/emreertugrl/server-crud.git
+
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd server-crud
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+
+   ```
+
+4. Start the JSON server:
+
+   ```bash
+   npm run server
+
+   ```
+
+5. Start the React development server:
+
+   ```bash
+   npm start
+   ```
+
+## Visual
+
+<img src="/images/" alt="server-crud-gif">
+
+## Live Demo
+
+<a href="https://servercrud.netlify.app/">Netlify Project View</a>
+
+## APIs Used
+
+<a href="https://github.com/emreertugrl/server-crud">Json Server API</a>
+
+## Contact
+
+For any questions or suggestions, feel free to reach out:
+
+- Email: emreertugrl7@gmail.com
+- LinkedIn: [emreertugrul7](https://www.linkedin.com/in/emreertugrul7/)

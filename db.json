@@ -1,24 +1,5 @@
 {
-  "todos": [
-    {
-      "id": "e728",
-      "title": "günlük ",
-      "status": "job",
-      "date": "8/12/2024, 5:00:20 PM"
-    },
-    {
-      "id": "7975",
-      "title": "react",
-      "status": "important",
-      "date": "8/18/2024, 10:37:29 AM"
-    },
-    {
-      "id": "f21e",
-      "title": "ev işi",
-      "status": "job",
-      "date": "8/18/2024, 10:37:36 AM"
-    }
-  ],
+  "todos": [],
   "users": [
     {
       "id": "user1",
